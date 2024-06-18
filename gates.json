@@ -11,7 +11,7 @@
   "CCN": {
     "GATE_1": true,
     "GATE_2": true,
-    "GATE_3": true,
+    "GATE_3": false,
     "GATE_4": true 
   }
 }
