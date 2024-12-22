@@ -1,6 +1,6 @@
 {
   "CHARGUE": {
-    "GATE_1": true,
+    "GATE_1": false,
     "GATE_2": true,
     "GATE_3": true,
     "GATE_4": true,
